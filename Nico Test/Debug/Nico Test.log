@@ -1,0 +1,7 @@
+﻿  FileName.cpp
+C:\Users\Nicolas\Documents\Nicolas\école\BA2\Q2\Proggra\SFML\Nico Test\Nico Test\FileName.cpp(32,48): warning C4244: 'argument' : conversion de 'double' en 'T', perte possible de données
+          with
+          [
+              T=int
+          ]
+  Nico Test.vcxproj -> C:\Users\Nicolas\Documents\Nicolas\école\BA2\Q2\Proggra\SFML\Nico Test\Debug\Nico Test.exe
